@@ -1,0 +1,5 @@
+repo init -u git://codeaurora.org/platform/manifest.git -b release -m LA.BF.2.1.2-00710-8084.0.xml --repo-url=git://codeaurora.org/tools/repo.git --repo-branch=caf-stable
+
+LA.BF.2.1.2-00710-8084.0
+
+refs/tags/AU_LINUX_ANDROID_LA.BF.2.1.2_RB1.06.00.01.182.007
